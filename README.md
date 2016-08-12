@@ -354,4 +354,4 @@ Create a realm using the `!createrealm` command.
 
 ###  Telegram channel :
 
-[Buffalo](https://telegram.me/Buffalo_TG)
+[Buffalo](https://telegram.me/Buffalo_TEAM)
