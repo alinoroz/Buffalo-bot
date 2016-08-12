@@ -3,7 +3,7 @@
 *New Bot For Manage Your SuperGroups.
 
 * * *
-# [BlackPlus](https://telegram.me/Blackplus) Uses "Anticrash" & "Autolaunch" To Be Active All The Time
+# [Buffalo](https://telegram.me/Buffalo_TG) Uses "Anticrash" & "Autolaunch" To Be Active All The Time
 # اموزش نصب سورس
 1. کد زیر را در ترمینال وارد کنید.
 
