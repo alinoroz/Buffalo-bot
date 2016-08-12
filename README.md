@@ -1,19 +1,19 @@
-# [BlackPlus](https;//telegram.me/bIackplus) > [GitHub](https://GitHub.com/Mehdi-HS/BIackPlus) | [Site](http://BlackPlus.ir) |  [Channel](https://telegram.me/black_ch)
+# [Buffalo](https;//telegram.me/Buffalo_TG) > [GitHub](https://GitHub.com/alinoroz/Buffalo-bot) |  [Channel](https://telegram.me/Buffalo_Team)
 * * *
 *New Bot For Manage Your SuperGroups.
 
 * * *
 # [BlackPlus](https://telegram.me/Blackplus) Uses "Anticrash" & "Autolaunch" To Be Active All The Time
-# آموزش نصب سروس
+# اموزش نصب سورس
 1. کد زیر را در ترمینال وارد کنید.
 
-sudo apt-get update; sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev make unzip git redis-server g++ libjansson-dev libpython-dev expat libexpat1-dev autoconf -y --force-yes && git clone https://github.com/mehdi-hs/BlackPlus.git && cd BlackPlus && chmod +x launch.sh && ./launch.sh install && ./launch.sh
+sudo apt-get update; sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev make unzip git redis-server g++ libjansson-dev libpython-dev expat libexpat1-dev autoconf -y --force-yes && git clone https://github.com/alinoroz/Buffalo-bot.git && cd BlackPlus && chmod +x launch.sh && ./launch.sh install && ./launch.sh
 
 2.بعد از چند دقیقه ربات از شما شماره ای میگیره که روبات روی اون نصب شه...
 بعد از وارد کردن شماره و وارد کردن کد در صورتی ربات در اکانت مورد نظر نصب شد ترمینال را ببندید و ترمینال جدید باز کنید
 سپس دستور زیر را بزنید...
 
-cd BlackPlus 
+cd Buffalo-bot
 
 دقت کنید که در دستور بالا حرف سی و پی رو کپتال بنویسید که اررور نده
 بعد این کد رو بزنید
@@ -32,7 +32,7 @@ screen
 
 اول در ترمینال دستور زیر را تایپ کنید
 
-cd BlackPlus
+cd Buffalo-bot
 
 سپس این دستور را وارد کنید.
 
@@ -92,7 +92,7 @@ git pull
 * * *
 
 ## Commands
-BlackPlus has several commands that are only usable at certain ranks.
+Buffalo has several commands that are only usable at certain ranks.
 
 
 ## General Commands {#general_commands}
@@ -306,8 +306,8 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 
 # Let's install the bot.
 cd $HOME
-git clone https://github.com/mehdi-hs/BlackPlus.git
-cd BlackPlus
+git clone https://github.com/alinoroz/Buffalo-bot.git
+cd Buffalo-bot
 chmod +x launch.sh
 ./launch.sh install
 ./launch.sh # Enter a phone number & confirmation code.
@@ -350,8 +350,8 @@ Create a realm using the `!createrealm` command.
 
 # Our team!
 
-[MehdiHS](https://github.com/mehdi-hs) ([Telegram](https://telegram.me/MehdiHS))
+[Ali](https://github.com/Xx_Sarhang_Ali_Gangster_xX) ([Telegram](https://telegram.me/Xx_Sarhang_Ali_Gangster_xX))
 
 ###  Telegram channel :
 
-[@Black_CH](https://telegram.me/Black_CH)
+[Buffalo](https://telegram.me/Buffalo_TG)
